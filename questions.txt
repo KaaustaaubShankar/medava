@@ -1,0 +1,4 @@
+1. How easy would it be to expand to this more than the drugs we used for this assignment? For example, would it be possible to make it more complicated by adding different types of drugs that have different temp ranges and more?
+2. How different is Java Memory Management from C++? Although the language looks similar, there must be some key differences between the two to necessitate learning one over the other.
+3. Its interesting that there are the java files are being stored under 5 folders. Why is it set up like that and how does it affect decelopment?
+4. Is there a big difference between maven and gradle
